@@ -7,7 +7,7 @@ This is my portfolio website showcasing my skills and projects.
 -JavaScript
 
 🚀 Live
-   Comming Soon
+   Comming Sooner
 
 👩‍💻 Author
    Tannu
